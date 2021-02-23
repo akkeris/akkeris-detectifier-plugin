@@ -1,0 +1,27 @@
+{
+  "name": "akkeris-detectifier-plugin",
+  "version": "1.0.0",
+  "description": "An Akkeris CLI plugin for the Akkeris Detectifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akkeris/akkeris-detectifier-plugin.git"
+  },
+  "keywords": [
+    "akkeris",
+    "aka-plugin",
+    "detectify"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akkeris/akkeris-detectifier-plugin/issues"
+  },
+  "homepage": "https://github.com/akkeris/akkeris-detectifier-plugin#readme",
+  "dependencies": {
+    "open": "^7.1.0"
+  }
+}
